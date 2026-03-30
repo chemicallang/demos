@@ -1,0 +1,7 @@
+*.exe
+zip/build
+stb_image/build
+sqlite/build
+sokol/build
+miniz/build
+miniaudio/build
